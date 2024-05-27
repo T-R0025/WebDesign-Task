@@ -1,0 +1,16 @@
+@charset "utf-8";
+.text-yellow{
+    color: yellow;
+}
+.text-red{
+    color: red;
+}
+.bg-blue{
+    background-color: blue;
+}
+span{
+    border: 2px dotted paleturquoise;
+}
+.bg-pink{
+    background-color: palevioletred;
+}
