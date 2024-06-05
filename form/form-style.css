@@ -1,0 +1,13 @@
+@charset "utf-8";
+input[type]{
+       margin-bottom: 7px;
+}
+input[li]{
+       font-size: 0.7rem;
+}
+input[fieldset]{
+    margin-top: 5px;
+}
+input[value]{
+    margin-right: 5px;
+}
