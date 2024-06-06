@@ -1,8 +1,5 @@
 @charset "utf-8";
-input[type]{
-       margin-bottom: 7px;
-}
-input[li]{
+a{
        font-size: 0.7rem;
 }
 input[fieldset]{
@@ -10,4 +7,11 @@ input[fieldset]{
 }
 input[value]{
     margin-right: 5px;
+}
+
+input[checkbox]{
+    margin-bottom: 7px;
+}
+input[type]{
+    margin: 10px;
 }
