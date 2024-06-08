@@ -2,16 +2,6 @@
 a{
        font-size: 0.7rem;
 }
-input[fieldset]{
-    margin-top: 5px;
-}
-input[value]{
-    margin-right: 5px;
-}
-
-input[checkbox]{
-    margin-bottom: 7px;
-}
 input[type]{
     margin: 10px;
 }
