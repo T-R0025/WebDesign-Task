@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+.pixelify-sans {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+header {
+    width: 100%;
+    background-color: aqua;
+    margin-left: auto;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    padding: 1%;
+}
+
+header ul li {
+    width: 20%;
+    text-align: center;
+}
+
+header ul li a {
+    display: block;
+    padding: 0.5rem;
+    color: blueviolet;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body {
+    min-width: 700px;
+}
+
+header ul li+li {
+    border-left: 2px solid slateblue;
+}
+
+.breadcrums {
+    list-style: none;
+    display: flex;
+}
+
+span {
+    color: blueviolet;
+}
+
+.breadcrums li{
+    margin-left: 10px;
+}

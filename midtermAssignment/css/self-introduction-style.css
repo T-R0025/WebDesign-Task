@@ -1,0 +1,60 @@
+/*記述済みの部分は変更しないでください！*/
+
+@charset "UTF-8";
+
+.mark-list {
+    list-style: "★";
+}
+
+.mokuzi-list{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem auto;
+    min-width: 800px;
+}
+
+
+.mokuzi-list section{
+    background-color: skyblue;
+    padding: 0.5rem;
+
+}
+
+.mokuzi-list ul{
+    padding: 20px;
+}
+
+section li{
+    margin-top: 20px;
+}
+
+.mark-list li{
+    display: flex;
+    margin: auto;
+    background-color: aliceblue;
+}
+
+.mark-list a {
+    background-color: honeydew;
+}
+
+.page-top {
+    width: 50px;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+.mokuzi-list  li{
+    list-style: none;
+    background: url(/task/midtermAssignment/self-introduction/self-img/01365-tmb.png) left 0px top 10% no-repeat ;
+    background-size: 18px auto;
+    padding-left: 15px;
+}
+
+body{
+    background-image: url(/task/midtermAssignment/self-introduction/self-img/5385.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}

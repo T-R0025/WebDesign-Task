@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.nakami2 {
+    background-color: wheat;
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    border: red solid 3px;
+    border-radius: 10px;
+}
+
+.news {
+    display: flex;
+}
+
+h3 {
+    background-color: azure;
+    border: blue solid 2px;
+    text-align: center;
+}
+
+.sikei{
+    color: darkcyan;
+}
+
+body{
+    background-image: url(/task/midtermAssignment/news/news-img/ダウンロード\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}

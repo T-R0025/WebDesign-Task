@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.nakami1 {
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 20px;
+    width: 30%;
+    border: yellow solid 3px;
+    border-radius: 10px;
+}
+
+.kigyou {
+    display: flex;
+}
+
+.link {
+    background-color: azure;
+    border: black solid 3px;
+    text-align: center;
+}
+
+body{
+    background-image: url(/task/midtermAssignment/company/company-img/ダウンロード\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+img{
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+}

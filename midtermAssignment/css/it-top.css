@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.nenpyou {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border:  greenyellow solid 2px;
+    border-radius: 5px;
+}
+
+.nakami {
+    background-color: skyblue;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border:  blue solid 5px;
+    border-radius: 5px;
+}
+
+h1{
+    color: brown;
+}
+
+body{
+    background-image: url(/task/midtermAssignment/it/it-img/pngtree-it-technology-internet-big-data-line-ai-artificial-intelligence-background-picture-image_2004440.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+.nenpyou p{
+    border-bottom: indianred solid 2px;
+}
+
+.nen{
+    color: blueviolet;
+}
