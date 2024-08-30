@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+.contents {
+    background-color: aliceblue;
+    display: flex;
+}
+
+.gazou1 img {
+    width: 90%;
+    height: 400px;
+}
+
+.gazou2 img{ 
+    width: 90%;
+    height: 400px;
+
+}
+
+.gazou3 img {
+    width: 90%;
+    height: 400px;
+
+}
+
+.sidebar {
+    background-color: beige;
+}
+
+p{
+    border:dashed 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sidebar img {
+    width: 400px;
+    height: 300px;
+}
+
+.page-top-tp{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-weight: bold;
+    padding: 0.7em;
+    text-align: center;
+    background-color: aquamarine;
+    color: #ffffff;
+    transition: 0.3s0;
+  }

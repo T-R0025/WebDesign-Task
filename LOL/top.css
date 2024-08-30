@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+
+body {
+  background-image: url(img/share.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+header {
+  width: 100%;
+  background-color : rgba(255, 255, 255, 0.5);
+  margin-left: auto;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+  padding: 1%;
+}
+
+header ul li {
+  width: 20%;
+  text-align: center;
+}
+
+header ul li a {
+  display: block;
+  padding: 0.5rem;
+  color: blueviolet;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.youtube  li{
+  width: 70px;
+  height: 70px;
+  margin-left: 100px;
+}
+
+.X li{
+  width: 70px;
+  height: 70px;
+  margin-left: 150px;
+}
+
