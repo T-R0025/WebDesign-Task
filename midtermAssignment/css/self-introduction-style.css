@@ -46,7 +46,7 @@ section li{
 
 .mokuzi-list  li{
     list-style: none;
-    background: url(/task/midtermAssignment/self-introduction/self-img/01365-tmb.png) left 0px top 10% no-repeat ;
+    background: url(../self-introduction/self-img/01365-tmb.png) left 0px top 10% no-repeat ;
     background-size: 18px auto;
     padding-left: 15px;
 }
