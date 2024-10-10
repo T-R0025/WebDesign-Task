@@ -52,7 +52,7 @@ section li{
 }
 
 body{
-    background-image: url(/task/midtermAssignment/self-introduction/self-img/5385.jpg);
+    background-image: url(../self-introduction/self-img/5385.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     background-attachment: fixed;
